@@ -8,7 +8,7 @@ A simple client-sided web-app to perform OCR on PDFs
 * [Tesseract.js](https://tesseract.projectnaptha.com/) to perform OCR
 
 ## Running Example
-WIP
+https://cemfahli.github.io/pdf-ocr/
 
 ## How to Build
 This project uses the default Svelte template, so the following commands can be used from the project directory (using npm)  
